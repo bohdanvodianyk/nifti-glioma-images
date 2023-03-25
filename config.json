@@ -1,0 +1,9 @@
+{
+
+  "data_dir" : "data/",
+  "output_dir" : "output/",
+  "format" : "uint16",
+  "slice_index" : 100,
+  "start_slice" : 80,
+  "stop_slice" : 116
+}
