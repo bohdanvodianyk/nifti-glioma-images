@@ -20,6 +20,7 @@ The script is developed and tested using the [Glioma Brain Tumor Imaging Data](h
 1. Install required libraries:
 
 pip install nibabel pandas numpy matplotlib pydicom pillow imageio opencv-python
+
 2. Configure paths and parameters in 'config.json' and 'dicom_initial_parameters.json'.
 3. Run the script:
 python nifti_conversion.py
